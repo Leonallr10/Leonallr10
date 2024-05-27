@@ -1,16 +1,32 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Leonallr10/Leonallr10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m [Leonal Robin D](https://github.com/Leonallr10).
+- Frontend & Backend Developer | Computer Vision | Programmer | IoT Enthusiast
 
-Here are some ideas to get you started:
+## Programming Languages & Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--TODO: Add Verilog-->
+![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,next,mysql,postgres,tailwind,express,nodejs,bash,haskell,django,scala)
+
+## GitHub Contributions Graph
+
+[![Leonal's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leonallr10&theme=github-dark)](https://github.com/Leonallr10)
+
+## Tools
+
+![My Tools](https://skillicons.dev/icons?i=git,github,linux,arduino,autocad,bootstrap,codepen,firebase,mysql,ps,visualstudio,vscode,figma,eclipse,postman,raspberrypi,anaconda,windows,gmail,linkedin,npm,sklearn,canva)
+
+## Reach Out To Me
+
+<a href="mailto:leonalrobinlr10@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png"></a>
+<a href="https://www.linkedin.com/in/leonal-robin-d-47b681284"><img src="https://skillicons.dev/icons?i=linkedin" height="48" width="48"></a>
+<a href="https://www.instagram.com/lr10robin/"><img src="https://skillicons.dev/icons?i=instagram" height="48" width="48"></a>
+
+## GitHub Stats
+
+![Leonal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonallr10&show_icons=true&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Leolr10?theme=dark&font=Marcellus&ext=contest)
+
+## HackerRank
+
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/APO_063)
