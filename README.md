@@ -6,7 +6,7 @@
 ## Programming Languages & Frameworks
 
 <!--TODO: Add Verilog-->
-![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,next,mysql,postgres,tailwind,express,nodejs,bash,haskell,django,scala)
+![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,mysql,tailwind,express,nodejs,haskell,django,scala,go)
 
 ## GitHub Contributions Graph
 
