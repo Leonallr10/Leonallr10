@@ -1,7 +1,7 @@
 # About Me
 
 - 👋 Hi, I’m [Leonal Robin D](https://github.com/Leonallr10).
-- Here is my [Portfolio](https://leonallr10.github.io/portfolio/)
+- Here is my [Portfolio](https://leonallr10.github.io/Portfolio/)
 - Frontend & Backend Developer | Computer Vision | Programmer | IoT Enthusiast
 
 ## Programming Languages & Frameworks
