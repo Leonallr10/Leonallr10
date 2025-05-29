@@ -15,7 +15,7 @@
 
 ## Tools
 
-![My Tools](https://skillicons.dev/icons?i=git,github,linux,arduino,autocad,bootstrap,codepen,firebase,mysql,visualstudio,vscode,figma,eclipse,postman,raspberrypi,anaconda,windows,gmail,linkedin,npm,sklearn,canva)
+![My Tools](https://skillicons.dev/icons?i=python,cpp,js,java,react,nodejs,django,flask,spring,php,express,html,tailwind,bootstrap,mysql,postgres,pinecone,firebase,aws,mongodb,git,github,docker,postman,vscode,pycharm,figma,arduino,stm32)
 
 ## Reach Out To Me
 
