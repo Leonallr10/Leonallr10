@@ -9,7 +9,12 @@
 <!--TODO: Add Verilog-->
 ![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,mysql,tailwind,express,nodejs,haskell,django,scala,go)
 
-## GitHub Contributions Graph
+
+## GitHub Stats
+
+[![Leonal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonallr10&show_icons=true&theme=github_dark)](https://github.com/Leonallr10)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonallr10&layout=compact&theme=github_dark)](https://github.com/Leonallr10)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Leonallr10&theme=github-dark&hide_border=false)](https://git.io/streak-stats)
 
