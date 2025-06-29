@@ -12,11 +12,7 @@
 
 ## GitHub Stats
 
-[![Leonal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonallr10&show_icons=true&theme=github_dark)](https://github.com/Leonallr10)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonallr10&layout=compact&theme=github_dark)](https://github.com/Leonallr10)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Leonallr10&theme=github-dark&hide_border=false)](https://git.io/streak-stats)
+[![Leonal's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leonallr10&theme=github-dark)](https://github.com/Leonallr10)
 
 ## Tools
 
