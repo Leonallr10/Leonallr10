@@ -11,7 +11,7 @@
 
 ## GitHub Contributions Graph
 
-[![Leonal's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leonallr10&theme=github-dark)](https://github.com/Leonallr10)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Leonallr10&theme=github-dark&hide_border=false)](https://git.io/streak-stats)
 
 ## Tools
 
