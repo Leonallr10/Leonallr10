@@ -29,6 +29,11 @@
 ![Leonal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonallr10&show_icons=true&theme=dark)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Leolr10?theme=dark&font=Marcellus&ext=contest)
 
+## Language Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonallr10&layout=compact&hide=jupyter%20notebook&langs_count=8&theme=github_dark&card_width=400)](https://github.com/Leonallr10)
+
+
 ## HackerRank
 
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/APO_063)
