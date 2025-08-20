@@ -10,9 +10,6 @@
 ![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,mysql,tailwind,express,nodejs,haskell,django,scala,go)
 
 
-## GitHub Stats
-
-[![Leonal's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leonallr10&theme=github-dark)](https://github.com/Leonallr10)
 
 ## Tools
 
