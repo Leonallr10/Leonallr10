@@ -24,9 +24,6 @@
 <a href="https://www.linkedin.com/in/leonal-robin-d-47b681284"><img src="https://skillicons.dev/icons?i=linkedin" height="48" width="48"></a>
 <a href="https://www.instagram.com/lr10robin/"><img src="https://skillicons.dev/icons?i=instagram" height="48" width="48"></a>
 
-## GitHub Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Leolr10?theme=dark&font=Marcellus&ext=contest)
 
 ## Language Stats
 
