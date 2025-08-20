@@ -26,7 +26,6 @@
 
 ## GitHub Stats
 
-![Leonal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonallr10&show_icons=true&theme=dark)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Leolr10?theme=dark&font=Marcellus&ext=contest)
 
 ## Language Stats
