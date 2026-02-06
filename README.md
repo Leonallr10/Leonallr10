@@ -5,10 +5,10 @@
 
 ## Programming Languages & Frameworks
 <!--TODO: Add Verilog-->
-![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,mysql,tailwind,express,nodejs,haskell,django,scala,go)
+![Skills](https://skillicons.dev/icons?i=py,java,js,html,css,react,mysql,tailwind,express,nodejs,django)
 
 ## Tools
-![My Tools](https://skillicons.dev/icons?i=python,cpp,js,java,react,nodejs,django,flask,spring,php,express,html,tailwind,bootstrap,mysql,postgres,pinecone,firebase,aws,mongodb,git,github,docker,postman,vscode,pycharm,figma,arduino,stm32)
+![My Tools](https://skillicons.dev/icons?i=python,js,react,nodejs,django,flask,php,express,html,tailwind,mysql,postgres,pinecone,firebase,aws,mongodb,git,github,docker,postman)
 
 ## Reach Out To Me
 <a href="mailto:leonalrobinlr10@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png"></a>
