@@ -8,15 +8,12 @@
 ![Skills](https://skillicons.dev/icons?i=py,java,js,html,css,react,mysql,tailwind,express,nodejs,django)
 
 ## Tools
-![My Tools](https://skillicons.dev/icons?i=python,js,react,nodejs,django,flask,php,express,html,tailwind,mysql,postgres,pinecone,firebase,aws,mongodb,git,github,docker,postman)
+![My Tools](https://skillicons.dev/icons?i=python,js,react,nodejs,django,flask,php,express,html,tailwind,mysql,postgres,firebase,aws,mongodb,git,github,docker,postman)
 
 ## Reach Out To Me
 <a href="mailto:leonalrobinlr10@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png"></a>
 <a href="https://www.linkedin.com/in/leonal-robin-d-47b681284"><img src="https://skillicons.dev/icons?i=linkedin" height="48" width="48"></a>
 <a href="https://www.instagram.com/lr10robin/"><img src="https://skillicons.dev/icons?i=instagram" height="48" width="48"></a>
-
-## Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonallr10&layout=compact&hide=jupyter%20notebook&langs_count=8&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=39d353&card_width=400)](https://github.com/Leonallr10)
 
 ## GitHub Activity Graph
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
