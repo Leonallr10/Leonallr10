@@ -5,7 +5,7 @@
 
 ## Programming Languages & Frameworks
 <!--TODO: Add Verilog-->
-![Skills](https://skillicons.dev/icons?i=py,java,js,html,css,react,mysql,tailwind,express,nodejs,django)
+![Skills](https://skillicons.dev/icons?i=py,js,html,css,react,mysql,tailwind,express,nodejs,django)
 
 ## Tools
 ![My Tools](https://skillicons.dev/icons?i=python,js,react,nodejs,django,flask,php,express,html,tailwind,mysql,postgres,firebase,aws,mongodb,git,github,docker,postman)
