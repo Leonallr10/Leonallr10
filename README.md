@@ -1,7 +1,8 @@
 # About Me
 - 👋 Hi, I'm [Leonal Robin D](https://github.com/Leonallr10).
+- 🎓 Graduated with a B.Tech in Computer Science and Engineering from Amrita Vishwa Vidyapeetham.
 - Here is my [Portfolio](https://leonalrobin.vercel.app/)
-- Frontend & Backend Developer | Computer Vision | Programmer | IoT Enthusiast
+- Frontend & Backend Developer | AI & ML Enthusiast
 
 ## Programming Languages & Frameworks
 <!--TODO: Add Verilog-->
