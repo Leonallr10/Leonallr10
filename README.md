@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm [Leonal Robin D](https://github.com/Leonallr10)
+# 👋 Hi, I'm [Leonal Robin](https://github.com/Leonallr10)
 
 </div>
 
