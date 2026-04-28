@@ -79,16 +79,6 @@ Frontend & Backend Developer · AI & ML Enthusiast
 ## 🧩 LeetCode Stats
 
 <div align="center">
-  <img width="99.9%" src="https://leetcard.jacoblin.cool/Leolr10?theme=dark&font=Baloo_2&ext=heatmap&border=0&radius=10" />
+  <img width="69.9%" src="https://leetcard.jacoblin.cool/Leolr10?theme=dark&font=Baloo_2&ext=heatmap&border=0&radius=10" />
 </div>
 
-<div align="center">
-  <img width="49.5%" src="https://leetcard.jacoblin.cool/Leolr10?theme=dark&font=Baloo_2&ext=contest&border=0&radius=10" />
-  <img width="49.5%" src="https://leetcard.jacoblin.cool/Leolr10?theme=dark&font=Baloo_2&ext=activity&border=0&radius=10" />
-</div>
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Leolr10-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Leolr10/)
-
-</div>
