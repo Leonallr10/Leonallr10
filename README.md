@@ -13,9 +13,9 @@ Frontend & Backend Developer · AI & ML Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://leonalrobin.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonalrobinlr10@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonal-robin-d-47b681284)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lr10robin/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/APO_063)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonal-robin-47b681284/)
+[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/leonal87880)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Leolr10/)
 
 </td>
 <td valign="center" width="35%">
@@ -79,7 +79,16 @@ Frontend & Backend Developer · AI & ML Enthusiast
 ## 🧩 LeetCode Stats
 
 <div align="center">
-  <img width="69.9%" src="https://leetcard.jacoblin.cool/Leolr10?theme=dark&font=Baloo_2&ext=heatmap&border=0&radius=10" />
+  <img width="99.9%" src="https://leetcard.jacoblin.cool/Leolr10?theme=dark&font=Baloo_2&ext=heatmap&border=0&radius=10" />
 </div>
+
+<div align="center">
+  <img width="49.5%" src="https://leetcard.jacoblin.cool/Leolr10?theme=dark&font=Baloo_2&ext=contest&border=0&radius=10" />
+  <img width="49.5%" src="https://leetcard.jacoblin.cool/Leolr10?theme=dark&font=Baloo_2&ext=activity&border=0&radius=10" />
+</div>
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Leolr10-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Leolr10/)
 
 </div>
