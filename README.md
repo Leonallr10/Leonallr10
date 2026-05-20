@@ -27,20 +27,29 @@ Frontend & Backend Developer · AI & ML Enthusiast
 </table>
 
 ---
-
 ## ⚡ Languages & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,mysql,tailwind,express,nodejs,django" />
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,django,flask" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="48"/>
+
 </div>
 
 ## 🛠 Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,django,flask,php,express,html,tailwind,mysql,postgres,firebase,aws,mongodb,git,github,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=tailwind,fastapi,postgres,mongodb,firebase,aws,gcp,docker,git,github" />
 </div>
 
----
+<div align="center">
+
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-DD0031?style=for-the-badge&logo=ngrx&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+</div>
 
 ## 📊 GitHub Stats
 
