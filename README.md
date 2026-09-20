@@ -20,7 +20,7 @@ Frontend & Backend Developer · AI & ML Enthusiast
 </td>
 <td valign="center" width="35%">
 
-<img width="575" height="586" alt="Leonal Robin" src="https://github.com/user-attachments/assets/fb8317b1-af1e-4839-b4e3-c138d2a4949b" />
+<img width="575" height="586" alt="Image" src="https://github.com/user-attachments/assets/2ac92637-d7c5-4af1-9cb9-1326d74ba714" />
 </td>
 </tr>
 </table>
