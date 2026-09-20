@@ -20,7 +20,7 @@ Frontend & Backend Developer · AI & ML Enthusiast
 </td>
 <td valign="center" width="35%">
 
-<img width="575" height="586" alt="Image" src="https://github.com/user-attachments/assets/f69765bc-cb4e-40b8-ba71-93653e388d90" /></td>
+<img width="375" height="386" alt="Image" src="https://github.com/user-attachments/assets/f69765bc-cb4e-40b8-ba71-93653e388d90" /></td>
 </tr>
 </table>
 
