@@ -20,8 +20,7 @@ Frontend & Backend Developer · AI & ML Enthusiast
 </td>
 <td valign="center" width="35%">
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%" />
-
+<img width="575" height="586" alt="Leonal Robin" src="https://github.com/user-attachments/assets/fb8317b1-af1e-4839-b4e3-c138d2a4949b" />
 </td>
 </tr>
 </table>
